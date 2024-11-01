@@ -1,0 +1,57 @@
+.house1 {
+    font-size: 50px;
+    color: rgb(97, 107, 255);
+    text-align: center;
+    border: 5px solid black;
+}
+
+
+.scene {
+    width: 500px;
+    height: 600px;
+    margin: 0 auto;
+  }
+  .roof {
+    width: 0;
+    margin: 0 auto;
+    margin-top: -50px;
+    border: 150px solid white;
+    border-bottom-color: rgb(162, 157, 243);
+  }
+  
+  .house {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: rgb(120, 145, 203);
+    overflow: hidden;
+    border-top: 2mm dashed rgb(57, 71, 203);
+    border-radius: 20px;
+  }
+  
+  .door {
+    height: 100px;
+    width: 50px;
+    background-color: rgb(162, 157, 243);
+    border: 5px solid rgb(57, 71, 203);
+    margin-left: 20px;
+    margin-bottom: 0%;
+    margin-top: 10px;
+  }
+
+  .window {
+    height: 50px;
+    width: 50px;
+    background-color: #cfe9ff;
+    margin-top: 30px;
+    margin-bottom: 0;
+    margin-left: 90px;
+    margin-right: 90px;
+    border-radius: 10px;
+    border: 2px solid blue;
+  }
+
+ .grass {
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnhtpMW6JGCJv6QafEYmndWaHLILVv5U_l-g&s);
+  }
+  
